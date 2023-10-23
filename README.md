@@ -5,4 +5,6 @@ Please enter your topics [here](https://docs.google.com/spreadsheets/d/1hWAyxd82
 
 Some sample topics have been provided [here](https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing). You are free to use them or come up with your own topics!
 
-## Due: Nov 6th, 2022 at 11:59 pm CST
+Please refer https://www.coursera.org/learn/cs-410/supplement/FKWgc/technology-review-information
+
+## Due: end of Week 11 (Nov 5, 2023)
